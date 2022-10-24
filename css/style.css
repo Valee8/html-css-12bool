@@ -7,7 +7,7 @@
 .row > div {
     background-color: #006CFA;
     min-height: 50px;
-    margin: 2px;
+    border: 1px solid #fff;
     line-height: 50px;
     color: #fff;
     text-align: center;
