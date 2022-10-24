@@ -13,38 +13,6 @@
     flex: 0 0 auto;
 }
 
-.start {
-    justify-content: flex-start;
-}
-
-.center {
-    justify-content: center;
-}
-
-.end {
-    justify-content: flex-end;
-}
-
-.top {
-    align-self: flex-start;
-}
-
-.middle {
-    align-self: center;
-}
-
-.bottom {
-    align-self: flex-end;
-}
-
-.space-around {
-    justify-content: space-around;
-}
-
-.space-between {
-    justify-content: space-between;
-}
-
 .col-1 {
     flex-basis: calc((100% / 12) * 1);
     max-width: calc((100% / 12) * 1);
