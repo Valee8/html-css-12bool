@@ -3,3 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.row > div {
+    background-color: #006CFA;
+    min-height: 50px;
+    margin: 2px;
+}
