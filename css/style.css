@@ -13,16 +13,13 @@
     text-align: center;
 }
 
-.row > .nested {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    padding: 15px;
-}
-
-.row > .nested > div {
+.row > .row > div {
     background-color: #00E265;
     border: 1px solid #006CFA;
+}
+
+.row > .row {
+    padding: 15px;
 }
 
 .margin-top {
