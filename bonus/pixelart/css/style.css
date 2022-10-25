@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Pixel art */
+.auto {
+    margin: 0 auto;
+}
+
+.row > div {
+    min-height: 30px;
+}
+
+.margin-top {
+    margin-top: 40px;
+}
+
+.row > .black {
+    background-color: #000;
+}
+
+.row > .white {
+    background-color: #fff;
+}
+
+.row > .orange {
+    background-color: #F38F06;
+}
+
+.row > .red {
+    background-color: #E54A38;
+}
+
+.row > .yellow {
+    background-color: #F3E601;
+}
+
+.row > .gray {
+    background-color: #D0D2CF;
+}
