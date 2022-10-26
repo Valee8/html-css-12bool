@@ -13,13 +13,13 @@
     text-align: center;
 }
 
-.row > .row > div {
+.row div > .row div {
     background-color: #00E265;
     border: 1px solid #006CFA;
 }
 
-.row > .row {
-    padding: 15px;
+.row div > .row {
+    padding: 12px;
 }
 
 .margin-top {
